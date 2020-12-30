@@ -1,4 +1,4 @@
-# awesome-react
+# awesome-web-dev
 
 ## Starter
 - Create React App: https://create-react-app.dev
