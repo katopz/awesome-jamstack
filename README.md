@@ -3,6 +3,7 @@
 ## Starter
 - Create React App: https://create-react-app.dev
 - Create React App (TS): https://create-react-app.dev/docs/adding-typescript/
+- Gatsby/Firebase: https://github.com/ovidiumihaibelciug/gatsby-firebase-starter
 
 ## CSS
 - Styled Component: https://styled-components.com/
