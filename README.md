@@ -1,4 +1,4 @@
-# awesome-web-dev
+# awesome-jamstack
 
 ## Starter
 - Create React App: https://create-react-app.dev
@@ -15,9 +15,10 @@
 
 ## Animation
 - Framer motion: https://www.framer.com/motion/
+- Cool demo: https://codesandbox.io/s/app-store-ui-using-react-and-framer-motion-ecgc2
 
 ## Effect
-- react-intersection-observer: https://github.com/thebuilder/react-intersection-observer
+- react-intersection-observer ([demo](https://codesandbox.io/s/framer-motion-animate-in-view-gqcc8)): https://github.com/thebuilder/react-intersection-observer
 
 ## Severless
 - Google/Firebase
@@ -27,3 +28,13 @@
 
 ## Document
 - Facebook/Docusaurus: https://v2.docusaurus.io/
+
+## Gastby Related
+- Theme: https://jamstackthemes.dev/ssg/gatsby/
+- Auth: https://github.com/gatsbyjs/gatsby/tree/master/examples/simple-auth
+- Firebase: https://github.com/ovidiumihaibelciug/gatsby-firebase-starter
+- Cool Theme: https://jamstackthemes.dev/theme/stackbit-exto-unibit/
+
+## Docusaurus Related
+- Show case: https://v2.docusaurus.io/showcase/
+- Framer Motion ([demo](https://motion-layout.azurewebsites.net/)): https://github.com/jeffersonlicet/react-motion-layout
