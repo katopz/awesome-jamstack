@@ -18,7 +18,8 @@
 - Cool demo: https://codesandbox.io/s/app-store-ui-using-react-and-framer-motion-ecgc2
 
 ## Effect
-- react-intersection-observer ([demo](https://codesandbox.io/s/framer-motion-animate-in-view-gqcc8)): https://github.com/thebuilder/react-intersection-observer
+- react-intersection-observer: https://github.com/thebuilder/react-intersection-observer
+- Scroll and play demo: https://codesandbox.io/s/framer-motion-animate-in-view-gqcc8
 
 ## Severless
 - Google/Firebase
