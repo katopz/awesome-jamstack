@@ -10,6 +10,7 @@
 
 ## Theme
 - Material UI: https://material-ui.com/
+- Gatsby/Material UI: https://jamstackthemes.dev/demo/theme/gatsby-material-kit-react/
 
 ## Animation
 - Framer motion: https://www.framer.com/motion/
