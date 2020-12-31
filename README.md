@@ -35,7 +35,7 @@
 - Auth: https://github.com/gatsbyjs/gatsby/tree/master/examples/simple-auth
 - Firebase: https://github.com/ovidiumihaibelciug/gatsby-firebase-starter
 - Cool Theme: https://jamstackthemes.dev/theme/stackbit-exto-unibit/
-- Local serach: https://www.gatsbyjs.com/plugins/gatsby-plugin-local-search/
+- Local search: https://www.gatsbyjs.com/plugins/gatsby-plugin-local-search/
 
 ## Docusaurus Related
 - Show case: https://v2.docusaurus.io/showcase/
