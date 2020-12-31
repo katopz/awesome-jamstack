@@ -15,7 +15,7 @@
 
 ## Animation
 - Framer motion: https://www.framer.com/motion/
-- Cool demo: https://codesandbox.io/s/app-store-ui-using-react-and-framer-motion-ecgc2
+- Cool demo: https://www.framer.com/api/motion/animate-shared-layout/#crossfade
 
 ## Effect
 - react-intersection-observer: https://github.com/thebuilder/react-intersection-observer
