@@ -21,6 +21,13 @@
 - react-intersection-observer: https://github.com/thebuilder/react-intersection-observer
 - Scroll and play demo: https://codesandbox.io/s/framer-motion-animate-in-view-gqcc8
 
+## Forms
+- https://react-hook-form.com/
+
+## Hooks
+- https://github.com/streamich/react-use
+- https://usehooks.com/
+
 ## Severless
 - Google/Firebase
 
