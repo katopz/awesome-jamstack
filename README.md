@@ -11,7 +11,6 @@
 
 ## Theme
 - Material UI: https://material-ui.com/
-- Gatsby/Material UI: https://jamstackthemes.dev/demo/theme/gatsby-material-kit-react/
 
 ## Animation
 - Framer motion: https://www.framer.com/motion/
@@ -50,6 +49,7 @@
 - Firebase: https://github.com/ovidiumihaibelciug/gatsby-firebase-starter
 - Cool Theme: https://jamstackthemes.dev/theme/stackbit-exto-unibit/
 - Local search: https://www.gatsbyjs.com/plugins/gatsby-plugin-local-search/
+- Material UI: https://jamstackthemes.dev/demo/theme/gatsby-material-kit-react/
 
 ## Docusaurus Related (cool)
 - Show case: https://v2.docusaurus.io/showcase/
